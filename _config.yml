@@ -2,6 +2,7 @@ name: Marcus Aurelius Travel Blog
 favicon: null
 layout_spectrum: 0.28653758415021
 typography_spectrum: 0.8227762070018798
+title: A travel-blog by Marcus Aurelius
 cta:
   domain: null
   bucket: null
