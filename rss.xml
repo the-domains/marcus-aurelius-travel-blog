@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A travel-blog by Marcus Aurelius]]></title>
+        <description><![CDATA[A travel-blog by Marcus Aurelius]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 20:44:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/918640b7-56f1-4b7c-a764-019f260791ce.JPG">]]></description>
+            <link>undefinedaeb4c848-fa80-400f-812c-e91cdde4e1d0/index.html</link>
+            <guid isPermaLink="false">aeb4c848-fa80-400f-812c-e91cdde4e1d0</guid>
+            <pubDate>Sat, 23 Jan 2016 20:43:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
