@@ -1,7 +1,7 @@
-name: Marcus Aurelius Travel Blog
+name: TravelingMAC
 favicon: null
-layout_spectrum: 0.28653758415021
-typography_spectrum: 0.8227762070018798
+layout_spectrum: 1
+typography_spectrum: 0.31017
 title: A travel-blog by Marcus Aurelius
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5408411798998713
+  brandStrength: 0.25
   lightness: 0.8620392570737749
-  saturation: 0.025518517708405852
-  rhythmicContrast: 0.4338507717475295
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
